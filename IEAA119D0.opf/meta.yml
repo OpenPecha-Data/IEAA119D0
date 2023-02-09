@@ -1,0 +1,16 @@
+id: IEAA119D0
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:39:38.036051
+last_modified: 2023-02-09 14:39:38.036292
+source_metadata:
+  title: 'BA: Proto-BA (Buddhanāmanirdeśa)'
+  language: zh
+bases:
+  1C33:
+    base_file: 1C33.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

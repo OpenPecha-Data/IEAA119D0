@@ -1,0 +1,19 @@
+id: b464ea1f49d74adcbaaa782327b98311
+annotation_type: index
+revision: '00001'
+annotations:
+  1ccc8d931f8746278b1ea83f14c44f25:
+    base: 1C33.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 17
+    - title: 'Chapter I: Nidāna'
+      span:
+        start: 18
+        end: 1786
+    - title: 'Chapter II: Praṇidhānacaryā'
+      span:
+        start: 1787
+        end: 7931
